@@ -1,4 +1,4 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hana-hami&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanaKami&show_icons=true&theme=radical)
 <!--
 **hana-kami/hana-kami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
