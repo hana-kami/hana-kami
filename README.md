@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/hana-kami/hana-kami/))
 
 <!--
 **hana-kami/hana-kami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
